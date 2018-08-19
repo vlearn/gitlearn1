@@ -1,1 +1,2 @@
-this is text file to check fech command
+this is text file to check fech command 1
+line 2
